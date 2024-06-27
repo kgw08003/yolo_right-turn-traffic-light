@@ -23,12 +23,15 @@ PySerial은 시리얼 포트로 데이터를 송수신하는 데 사용되는 �
 
 ### 알고리즘 순서도
 ![image](https://github.com/kgw08003/yolo_right-turn-traffic-light/assets/109195054/1ff34a1d-1ea5-4524-8ebf-41c4f566fa23)
+
 41.6m는 실험을 통해서 찾아낸 거리고, 웹캠을 기준으로 yolov5를 통해 사람을 저녁기준으로 사람 객체를 인식할 수 있는 최대 거리이다.
 
 ![image](https://github.com/kgw08003/yolo_right-turn-traffic-light/assets/109195054/0634888b-7123-4721-b5b0-cb47abbf93c9)
+
 이런식으로 화면에 사람이 탐지될 경우 해당 우회전 신호등의 정지 신호가 출력되도록 만든 것이다.
 
 ![3D가상공간](https://github.com/kgw08003/yolo_right-turn-traffic-light/assets/109195054/6580f18b-bbe8-4ca8-bb7c-8a4be465eb7d)
+
 해당 사진은 3D가상공간을 만들어본 사진으로 횡단보도내 사람이 카메라를 통해 탐지되면 신호를 제어하는 가상 공간을 만들어보았다.
 
 mp4 영상에서는 우리가 제작 하고자한 AI기반 우회전 신호등을 가상현실 모델링을 통해서 만든 영상이다.
