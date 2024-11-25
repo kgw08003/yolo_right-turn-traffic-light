@@ -38,3 +38,6 @@ PySerial은 시리얼 포트로 데이터를 송수신하는 데 사용되는 �
 #### mp4 영상에서는 우리가 제작 하고자한 AI기반 우회전 신호등을 가상현실 모델링을 통해서 만든 영상이다.
 
 * #### __main__.py 파일과 dot777.ino 파일은 zip파일 내에 있는 파일중 가장 대표적인 파일 두 개를 선정하여 올린 것이다.
+
+### 졸업논문
+https://drive.google.com/file/d/1pxp23Y7BlAoH0PLF6xh5b78UWQ9OHIYe/view?usp=drive_link 
